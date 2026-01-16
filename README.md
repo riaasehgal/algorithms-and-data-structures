@@ -1,6 +1,6 @@
 # Algorithms and Data Structures in C
 
-Collection of classic algorithms and data structures implemented in C from my Data Structures and Algorithms coursework at Sheridan College.
+Collection of classic algorithms and data structures implemented in C from my Data Structures and Algorithms coursework.
 
 ## Contents
 
